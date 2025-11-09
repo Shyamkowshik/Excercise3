@@ -1,1 +1,3 @@
 Hello world
+
+This is the second modification to the MAJOR project.
