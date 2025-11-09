@@ -1,3 +1,6 @@
+
 Hello world by sam
+
+Hello world by kes.
 
 This is the second modification to the MAJOR project.
